@@ -35,6 +35,7 @@ You can use only the path of the rest method, or pass a parameter dictionary. In
 * PostAsync<T> : Use post service methods rest asynchronously and return objects if necessary. 
 
 ```csharp
+ public static async Task<HttpResponseMessage> PostAsync(this HttpClient httpClient,string address, object dto)
  public static async Task<ServiceResponse<T>> PostAsync<T>(this HttpClient httpClient, string address, object dto)
 ```
 
