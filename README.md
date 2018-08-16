@@ -28,7 +28,7 @@ You can use only the path of the rest method, or pass a parameter dictionary. In
 ```csharp
  public static async Task<ServiceResponse<T>> GetAsync<T>(this HttpClient httpClient, string address);
  public static async Task<ServiceResponse<T>> GetAsync<T>(this HttpClient httpClient, string address,
-        Dictionary<string, string> values)
+        Dictionary<string, string> values);
 ```
 
 
