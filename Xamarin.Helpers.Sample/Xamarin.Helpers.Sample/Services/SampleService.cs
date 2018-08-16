@@ -38,8 +38,6 @@ namespace Xamarin.Helpers.Sample.Services
             {
                 throw new Exception(ex.Message);
             }
-
-            return null;
         }
     }
 }

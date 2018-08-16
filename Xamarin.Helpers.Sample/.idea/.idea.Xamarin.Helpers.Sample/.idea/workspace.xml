@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98e97266-d222-40ba-9166-2002145087b4" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../Xamarin.Helpers/TaskExtensions.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Xamarin.Helpers/TaskExtensions.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Xamarin.Helpers.Sample/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Xamarin.Helpers.Sample/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Xamarin.Helpers.Sample/Services/SampleService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Xamarin.Helpers.Sample/Services/SampleService.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,8 +17,8 @@
       <file leaf-file-name="MainViewModel.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Xamarin.Helpers.Sample/ViewModels/MainViewModel.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="314">
-              <caret line="59" column="45" selection-start-line="59" selection-start-column="45" selection-end-line="59" selection-end-column="45" />
+            <state relative-caret-position="374">
+              <caret line="63" column="13" lean-forward="true" selection-start-line="63" selection-start-column="13" selection-end-line="63" selection-end-column="13" />
               <folding>
                 <marker date="1534427108924" expanded="true" signature="6:348" ph="..." />
                 <marker date="1534427108924" expanded="true" signature="393:1796" ph="{...}" />
@@ -37,18 +38,18 @@
       <file leaf-file-name="SampleService.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Xamarin.Helpers.Sample/Services/SampleService.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+            <state relative-caret-position="418">
+              <caret line="42" column="1" lean-forward="true" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
               <folding>
-                <marker date="1534427029468" expanded="true" signature="6:158" ph="..." />
-                <marker date="1534427029468" expanded="true" signature="201:1187" ph="{...}" />
-                <marker date="1534427029468" expanded="true" signature="234:1185" ph="{...}" />
-                <marker date="1534427029468" expanded="true" signature="318:425" ph="{...}" />
-                <marker date="1534427029468" expanded="true" signature="489:1179" ph="{...}" />
-                <marker date="1534427029468" expanded="true" signature="515:1033" ph="{...}" />
-                <marker date="1534427029468" expanded="true" signature="736:815" ph="{...}" />
-                <marker date="1534427029468" expanded="true" signature="836:1019" ph="{...}" />
-                <marker date="1534427029468" expanded="true" signature="1066:1143" ph="{...}" />
+                <marker date="1534428983962" expanded="true" signature="6:158" ph="..." />
+                <marker date="1534428983962" expanded="true" signature="201:1161" ph="{...}" />
+                <marker date="1534428983962" expanded="true" signature="234:1159" ph="{...}" />
+                <marker date="1534428983962" expanded="true" signature="318:425" ph="{...}" />
+                <marker date="1534428983962" expanded="true" signature="489:1153" ph="{...}" />
+                <marker date="1534428983962" expanded="true" signature="515:1033" ph="{...}" />
+                <marker date="1534428983962" expanded="true" signature="736:815" ph="{...}" />
+                <marker date="1534428983962" expanded="true" signature="836:1019" ph="{...}" />
+                <marker date="1534428983962" expanded="true" signature="1066:1143" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -80,7 +81,8 @@
       <file leaf-file-name="ServiceResponse.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../Xamarin.Helpers/ServiceResponse.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="439">
+              <caret line="55" column="5" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="55" selection-end-column="5" />
               <folding>
                 <marker date="1534424463188" expanded="true" signature="6:31" ph="..." />
                 <marker date="1534424463188" expanded="true" signature="69:1506" ph="{...}" />
@@ -113,8 +115,8 @@
       <file leaf-file-name="HttpExtension.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../Xamarin.Helpers/HttpExtension.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1140">
-              <caret line="82" column="13" selection-start-line="82" selection-start-column="13" selection-end-line="82" selection-end-column="13" />
+            <state relative-caret-position="69">
+              <caret line="11" column="117" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="117" />
               <folding>
                 <marker date="1534425910862" expanded="false" signature="6:160" ph="..." />
                 <marker date="1534425910862" expanded="true" signature="196:2684" ph="{...}" />
@@ -140,7 +142,8 @@
       <file leaf-file-name="ImageHelper.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../Xamarin.Helpers/Helpers/ImageHelper.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-338">
+            <state relative-caret-position="90">
+              <caret line="8" column="62" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="62" />
               <folding>
                 <marker date="1534421150344" expanded="false" signature="6:48" ph="..." />
                 <marker date="1534421150344" expanded="true" signature="75:1373" ph="{...}" />
@@ -214,9 +217,9 @@
         <option value="$PROJECT_DIR$/Xamarin.Helpers.Sample/Model/Sample.cs" />
         <option value="$PROJECT_DIR$/Xamarin.Helpers.Sample/MainPage.xaml" />
         <option value="$PROJECT_DIR$/Xamarin.Helpers.Sample/ViewModels/Models/MyTodo.cs" />
-        <option value="$PROJECT_DIR$/Xamarin.Helpers.Sample/Services/SampleService.cs" />
         <option value="$PROJECT_DIR$/Xamarin.Helpers.Sample/ViewModels/MainViewModel.cs" />
         <option value="$PROJECT_DIR$/../Xamarin.Helpers/TaskExtensions.cs" />
+        <option value="$PROJECT_DIR$/Xamarin.Helpers.Sample/Services/SampleService.cs" />
       </list>
     </option>
   </component>
@@ -365,12 +368,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1534424927727</updated>
-      <workItem from="1534424928881" duration="2385000" />
+      <workItem from="1534424928881" duration="3729000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2385000" />
+    <option name="totallyTimeSpent" value="3729000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -544,43 +547,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Xamarin.Helpers.Sample/Services/SampleService.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
-          <folding>
-            <marker date="1534427029468" expanded="true" signature="6:158" ph="..." />
-            <marker date="1534427029468" expanded="true" signature="201:1187" ph="{...}" />
-            <marker date="1534427029468" expanded="true" signature="234:1185" ph="{...}" />
-            <marker date="1534427029468" expanded="true" signature="318:425" ph="{...}" />
-            <marker date="1534427029468" expanded="true" signature="489:1179" ph="{...}" />
-            <marker date="1534427029468" expanded="true" signature="515:1033" ph="{...}" />
-            <marker date="1534427029468" expanded="true" signature="736:815" ph="{...}" />
-            <marker date="1534427029468" expanded="true" signature="836:1019" ph="{...}" />
-            <marker date="1534427029468" expanded="true" signature="1066:1143" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Xamarin.Helpers.Sample/ViewModels/MainViewModel.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="59" column="45" selection-start-line="59" selection-start-column="45" selection-end-line="59" selection-end-column="45" />
-          <folding>
-            <marker date="1534427108924" expanded="true" signature="6:348" ph="..." />
-            <marker date="1534427108924" expanded="true" signature="393:1796" ph="{...}" />
-            <marker date="1534427108924" expanded="true" signature="450:1794" ph="{...}" />
-            <marker date="1534427108924" expanded="true" signature="468:1131" ph="Property" />
-            <marker date="1534427108924" expanded="true" signature="648:755" ph="{...}" />
-            <marker date="1534427108924" expanded="true" signature="865:1111" ph="{...}" />
-            <marker date="1534427108924" expanded="true" signature="943:1001" ph="{...}" />
-            <marker date="1534427108924" expanded="true" signature="1231:1383" ph="{...}" />
-            <marker date="1534427108924" expanded="true" signature="1422:1788" ph="{...}" />
-            <marker date="1534427108924" expanded="true" signature="1669:1778" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../Xamarin.Helpers/TaskExtensions.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -589,24 +555,6 @@
             <marker date="1534427366315" expanded="true" signature="6:43" ph="..." />
             <marker date="1534427366315" expanded="true" signature="80:512" ph="{...}" />
             <marker date="1534427366315" expanded="true" signature="175:368" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Xamarin.Helpers/ServiceResponse.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <marker date="1534424463188" expanded="true" signature="6:31" ph="..." />
-            <marker date="1534424463188" expanded="true" signature="69:1506" ph="{...}" />
-            <marker date="1534424463188" expanded="true" signature="84:154" ph="/// Gets the status code. ... " />
-            <marker date="1534424463188" expanded="true" signature="227:291" ph="/// Gets the value. ... " />
-            <marker date="1534424463188" expanded="true" signature="338:404" ph="/// Gets the content. ... " />
-            <marker date="1534424463188" expanded="true" signature="458:522" ph="/// Gets the error. ... " />
-            <marker date="1534424463188" expanded="true" signature="577:864" ph="/// Initializes a new instance of the &lt;see cref=&quot;ServiceResponse{T}&quot;/&gt; class. ... " />
-            <marker date="1534424463188" expanded="true" signature="932:1026" ph="{...}" />
-            <marker date="1534424463188" expanded="true" signature="1036:1323" ph="/// Initializes a new instance of the &lt;see cref=&quot;ServiceResponse{T}&quot;/&gt; class. ... " />
-            <marker date="1534424463188" expanded="true" signature="1406:1500" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -624,8 +572,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../Xamarin.Helpers/HttpExtension.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1140">
-          <caret line="82" column="13" selection-start-line="82" selection-start-column="13" selection-end-line="82" selection-end-column="13" />
+        <state relative-caret-position="69">
+          <caret line="11" column="117" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="117" />
           <folding>
             <marker date="1534425910862" expanded="false" signature="6:160" ph="..." />
             <marker date="1534425910862" expanded="true" signature="196:2684" ph="{...}" />
@@ -647,9 +595,66 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../Xamarin.Helpers/ServiceResponse.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="55" column="5" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="55" selection-end-column="5" />
+          <folding>
+            <marker date="1534424463188" expanded="true" signature="6:31" ph="..." />
+            <marker date="1534424463188" expanded="true" signature="69:1506" ph="{...}" />
+            <marker date="1534424463188" expanded="true" signature="84:154" ph="/// Gets the status code. ... " />
+            <marker date="1534424463188" expanded="true" signature="227:291" ph="/// Gets the value. ... " />
+            <marker date="1534424463188" expanded="true" signature="338:404" ph="/// Gets the content. ... " />
+            <marker date="1534424463188" expanded="true" signature="458:522" ph="/// Gets the error. ... " />
+            <marker date="1534424463188" expanded="true" signature="577:864" ph="/// Initializes a new instance of the &lt;see cref=&quot;ServiceResponse{T}&quot;/&gt; class. ... " />
+            <marker date="1534424463188" expanded="true" signature="932:1026" ph="{...}" />
+            <marker date="1534424463188" expanded="true" signature="1036:1323" ph="/// Initializes a new instance of the &lt;see cref=&quot;ServiceResponse{T}&quot;/&gt; class. ... " />
+            <marker date="1534424463188" expanded="true" signature="1406:1500" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Xamarin.Helpers.Sample/Services/SampleService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="42" column="1" lean-forward="true" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
+          <folding>
+            <marker date="1534428983962" expanded="true" signature="6:158" ph="..." />
+            <marker date="1534428983962" expanded="true" signature="201:1161" ph="{...}" />
+            <marker date="1534428983962" expanded="true" signature="234:1159" ph="{...}" />
+            <marker date="1534428983962" expanded="true" signature="318:425" ph="{...}" />
+            <marker date="1534428983962" expanded="true" signature="489:1153" ph="{...}" />
+            <marker date="1534428983962" expanded="true" signature="515:1033" ph="{...}" />
+            <marker date="1534428983962" expanded="true" signature="736:815" ph="{...}" />
+            <marker date="1534428983962" expanded="true" signature="836:1019" ph="{...}" />
+            <marker date="1534428983962" expanded="true" signature="1066:1143" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Xamarin.Helpers.Sample/ViewModels/MainViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="63" column="13" lean-forward="true" selection-start-line="63" selection-start-column="13" selection-end-line="63" selection-end-column="13" />
+          <folding>
+            <marker date="1534427108924" expanded="true" signature="6:348" ph="..." />
+            <marker date="1534427108924" expanded="true" signature="393:1796" ph="{...}" />
+            <marker date="1534427108924" expanded="true" signature="450:1794" ph="{...}" />
+            <marker date="1534427108924" expanded="true" signature="468:1131" ph="Property" />
+            <marker date="1534427108924" expanded="true" signature="648:755" ph="{...}" />
+            <marker date="1534427108924" expanded="true" signature="865:1111" ph="{...}" />
+            <marker date="1534427108924" expanded="true" signature="943:1001" ph="{...}" />
+            <marker date="1534427108924" expanded="true" signature="1231:1383" ph="{...}" />
+            <marker date="1534427108924" expanded="true" signature="1422:1788" ph="{...}" />
+            <marker date="1534427108924" expanded="true" signature="1669:1778" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../Xamarin.Helpers/Helpers/ImageHelper.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-338">
+        <state relative-caret-position="90">
+          <caret line="8" column="62" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="62" />
           <folding>
             <marker date="1534421150344" expanded="false" signature="6:48" ph="..." />
             <marker date="1534421150344" expanded="true" signature="75:1373" ph="{...}" />
