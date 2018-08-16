@@ -60,15 +60,15 @@ public static class HttpExtension
     {
         try
         {
-            var builder = new StringBuilder(address);
-            builder.Append("?");
+            var builder = new StringBuilder();
 
             foreach (var pair in values)
             {
-                builder.Append($"{pair.Key}={pair.Value}&amp;");
+                builder.Append($"&{pair.Key}={pair.Value}");
             }
 
-            var response = await httpClient.GetAsync(builder.ToString());
+            var url = $"{address}?{builder.ToString().Substring(0)}";
+            var response = await httpClient.GetAsync(url);
             return await GetResponse<T>(response);
         }
         catch (Exception ex)
