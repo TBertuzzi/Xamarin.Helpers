@@ -1,6 +1,17 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>tbertuzzi</Authors>
+    <Company>KBits</Company>
+    <Description>Extensions for HttpClient, Tasks and objects. Helpers to manipulate images</Description>
+    <Copyright>Copyright ©2018 KBits</Copyright>
+    <PackageLicenseUrl>http://opensource.org/licenses/MS-PL</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/TBertuzzi/Xamarin.Helpers</PackageProjectUrl>
+    <PackageIconUrl>https://github.com/TBertuzzi/Xamarin.Helpers/blob/master/Resources/icon.png?raw=true</PackageIconUrl>
+    <RepositoryUrl>https://github.com/TBertuzzi/Xamarin.Helpers</RepositoryUrl>
+    <PackageReleaseNotes>Initial Version</PackageReleaseNotes>
+    <PackageTags>xamarin xamarin.forms xamarin forms helpers httpclient rest image cast</PackageTags>
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="Newtonsoft.Json" Version="11.0.2" />
