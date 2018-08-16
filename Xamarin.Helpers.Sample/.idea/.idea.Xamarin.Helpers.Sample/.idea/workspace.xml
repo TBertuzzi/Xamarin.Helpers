@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="98e97266-d222-40ba-9166-2002145087b4" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Xamarin.Helpers.Sample/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Xamarin.Helpers.Sample/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Xamarin.Helpers.Sample/Services/SampleService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Xamarin.Helpers.Sample/Services/SampleService.cs" afterDir="false" />
-    </list>
+    <list default="true" id="98e97266-d222-40ba-9166-2002145087b4" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -142,8 +139,8 @@
       <file leaf-file-name="ImageHelper.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../Xamarin.Helpers/Helpers/ImageHelper.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="8" column="62" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="62" />
+            <state relative-caret-position="553">
+              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
               <folding>
                 <marker date="1534421150344" expanded="false" signature="6:48" ph="..." />
                 <marker date="1534421150344" expanded="true" signature="75:1373" ph="{...}" />
@@ -368,12 +365,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1534424927727</updated>
-      <workItem from="1534424928881" duration="3729000" />
+      <workItem from="1534424928881" duration="3960000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3729000" />
+    <option name="totallyTimeSpent" value="3960000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -402,7 +399,7 @@
       <window_info anchor="bottom" id="Build" />
       <window_info anchor="right" id="Database" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.39976415" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39976415" />
       <window_info id="Favorites" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -653,8 +650,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../Xamarin.Helpers/Helpers/ImageHelper.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="8" column="62" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="62" />
+        <state relative-caret-position="553">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
           <folding>
             <marker date="1534421150344" expanded="false" signature="6:48" ph="..." />
             <marker date="1534421150344" expanded="true" signature="75:1373" ph="{...}" />

@@ -9,6 +9,16 @@ using Newtonsoft.Json;
 
 public static class HttpExtension
 {
+
+    public static async Task<HttpResponseMessage> PostAsync(this HttpClient httpClient,string address, object dto)
+    {
+        var jsonRequest = JsonConvert.SerializeObject(dto);
+        var content = new StringContent(jsonRequest, Encoding.UTF8, "text/json");
+
+        return await httpClient.PostAsync(address, content);
+    }
+
+
     public static async Task<ServiceResponse<T>> PostAsync<T>(this HttpClient httpClient, string address, object dto)
     {
         try
