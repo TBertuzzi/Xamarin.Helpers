@@ -8,7 +8,7 @@ Extensions for HttpClient, Objects, Tasks and image manipulation.
 
 |Name|Info|
 | ------------------- | :------------------: |
-|Xamarin.Helpers|[![NuGet](https://img.shields.io/badge/nuget-1.0.0-blue.svg)](https://www.nuget.org/packages/Xamarin.Helpers/)|
+|Xamarin.Helpers|[![NuGet](https://img.shields.io/badge/nuget-1.0.1-blue.svg)](https://www.nuget.org/packages/Xamarin.Helpers/)|
 
  **Platform Support**
 
@@ -28,14 +28,15 @@ You can use only the path of the rest method, or pass a parameter dictionary. In
 ```csharp
  public static async Task<ServiceResponse<T>> GetAsync<T>(this HttpClient httpClient, string address);
  public static async Task<ServiceResponse<T>> GetAsync<T>(this HttpClient httpClient, string address,
-        Dictionary<string, string> values)
+        Dictionary<string, string> values);
 ```
 
 
 * PostAsync<T> : Use post service methods rest asynchronously and return objects if necessary. 
 
 ```csharp
- public static async Task<ServiceResponse<T>> PostAsync<T>(this HttpClient httpClient, string address, object dto)
+ public static async Task<HttpResponseMessage> PostAsync(this HttpClient httpClient,string address, object dto);
+ public static async Task<ServiceResponse<T>> PostAsync<T>(this HttpClient httpClient, string address, object dto);
 ```
 
 * ServiceResponse<T> : Object that facilitates the return of requests Rest. It returns the Http code of the request, already converted object and the contents in case of errors.
