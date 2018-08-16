@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Xamarin.Helpers" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Helpers" t="Include">
+          <e p="ImageHelper.cs" t="Include" />
+        </e>
+        <e p="HttpExtension.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.0" t="Include">
+              <e p="Xamarin.Helpers.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="ObjectExtensions.cs" t="Include" />
+        <e p="ServiceResponse.cs" t="Include" />
+        <e p="TaskExtensions.cs" t="Include" />
+        <e p="Xamarin.Helpers.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Xamarin.Helpers.sln" t="IncludeFlat" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2018.1/resharper-host/local/Transient/ReSharperHost/v12/SolutionCaches/_Xamarin.Helpers.-2066573612.00" t="ExcludeRecursive" />
+  </component>
+</project>

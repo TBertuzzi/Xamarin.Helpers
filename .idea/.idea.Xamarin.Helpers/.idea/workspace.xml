@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="33534745-9613-40ac-b0a3-d46c187b0621" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Xamarin.Helpers/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Xamarin.Helpers/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Xamarin.Helpers/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Xamarin.Helpers/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Xamarin.Helpers/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Xamarin.Helpers.Sample/Xamarin.Helpers.Sample/App.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Xamarin.Helpers.Sample/Xamarin.Helpers.Sample/App.xaml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Xamarin.Helpers.Sample/Xamarin.Helpers.Sample/MainPage.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Xamarin.Helpers.Sample/Xamarin.Helpers.Sample/MainPage.xaml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Xamarin.Helpers.Sample/Xamarin.Helpers.Sample/ViewModels/MainViewModel.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Xamarin.Helpers.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Xamarin.Helpers/Helpers/ImageHelper.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Xamarin.Helpers/HttpExtension.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Xamarin.Helpers/ObjectExtensions.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Xamarin.Helpers/ServiceResponse.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Xamarin.Helpers/TaskExtensions.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Xamarin.Helpers/Xamarin.Helpers.csproj" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="HttpExtension.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Xamarin.Helpers/HttpExtension.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <marker date="1534424463195" expanded="false" signature="6:160" ph="..." />
+                <marker date="1534424463195" expanded="true" signature="196:2582" ph="{...}" />
+                <marker date="1534424463195" expanded="true" signature="316:834" ph="{...}" />
+                <marker date="1534424463195" expanded="true" signature="334:663" ph="{...}" />
+                <marker date="1534424463195" expanded="true" signature="692:828" ph="{...}" />
+                <marker date="1534424463195" expanded="true" signature="940:1263" ph="{...}" />
+                <marker date="1534424463195" expanded="true" signature="958:1092" ph="{...}" />
+                <marker date="1534424463195" expanded="true" signature="1121:1257" ph="{...}" />
+                <marker date="1534424463195" expanded="true" signature="1412:1969" ph="{...}" />
+                <marker date="1534424463195" expanded="true" signature="1430:1798" ph="{...}" />
+                <marker date="1534424463195" expanded="true" signature="1569:1662" ph="{...}" />
+                <marker date="1534424463195" expanded="true" signature="1827:1963" ph="{...}" />
+                <marker date="1534424463195" expanded="true" signature="2065:2578" ph="{...}" />
+                <marker date="1534424463195" expanded="true" signature="2189:2244" ph="{...}" />
+                <marker date="1534424463195" expanded="true" signature="2257:2452" ph="{...}" />
+                <marker date="1534424463195" expanded="true" signature="2481:2540" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ImageHelper.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Xamarin.Helpers/Helpers/ImageHelper.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+              <folding>
+                <marker date="1534421150344" expanded="false" signature="6:48" ph="..." />
+                <marker date="1534421150344" expanded="true" signature="75:1373" ph="{...}" />
+                <marker date="1534421150344" expanded="true" signature="106:1371" ph="{...}" />
+                <marker date="1534421150344" expanded="true" signature="175:543" ph="{...}" />
+                <marker date="1534421150344" expanded="true" signature="237:533" ph="{...}" />
+                <marker date="1534421150344" expanded="true" signature="605:932" ph="{...}" />
+                <marker date="1534421150344" expanded="true" signature="667:897" ph="{...}" />
+                <marker date="1534421150344" expanded="true" signature="808:883" ph="{...}" />
+                <marker date="1534421150344" expanded="true" signature="993:1175" ph="{...}" />
+                <marker date="1534421150344" expanded="true" signature="1239:1365" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TaskExtensions.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Xamarin.Helpers/TaskExtensions.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+              <folding>
+                <marker date="1534424451267" expanded="false" signature="6:43" ph="..." />
+                <marker date="1534424451267" expanded="true" signature="80:512" ph="{...}" />
+                <marker date="1534424451267" expanded="true" signature="175:368" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ObjectExtensions.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Xamarin.Helpers/ObjectExtensions.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+              <folding>
+                <marker date="1534424463193" expanded="true" signature="51:416" ph="{...}" />
+                <marker date="1534424463193" expanded="true" signature="99:414" ph="{...}" />
+                <marker date="1534424463193" expanded="true" signature="222:387" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ServiceResponse.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Xamarin.Helpers/ServiceResponse.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="840">
+              <caret line="56" selection-start-line="56" selection-end-line="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Xamarin.Helpers/ObjectExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Xamarin.Helpers/TaskExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Xamarin.Helpers/ServiceResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Xamarin.Helpers/HttpExtension.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Xamarin.Helpers/Helpers/ImageHelper.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Xamarin.Helpers/Converters/Image.cs" />
+        <option value="$PROJECT_DIR$/Xamarin.Helpers/Helpers/GroupingHelper.cs" />
+        <option value="$PROJECT_DIR$/Xamarin.Helpers/Models/ServiceResponse.cs" />
+        <option value="$PROJECT_DIR$/Xamarin.Helpers/Extensions/HttpExtension.cs" />
+        <option value="$PROJECT_DIR$/Xamarin.Helpers/Extensions/ObjectExtensions.cs" />
+        <option value="$PROJECT_DIR$/Xamarin.Helpers/ObjectExtensions.cs" />
+        <option value="$PROJECT_DIR$/Xamarin.Helpers/Extensions/TaskExtensions.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Xamarin.Helpers (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Xamarin.Helpers (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Xamarin.Helpers" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Xamarin.Helpers (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Xamarin.Helpers" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Dependencies" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Xamarin.Helpers (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Xamarin.Helpers" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Dependencies" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name=".NETStandard 2" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Xamarin.Helpers (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Xamarin.Helpers" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Helpers" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33534745-9613-40ac-b0a3-d46c187b0621" name="Default" comment="" />
+      <created>1534419814812</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1534419814812</updated>
+      <workItem from="1534419817501" duration="2593000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2593000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="NuGet" visible="true" weight="0.32900944" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19305556" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Xamarin.Helpers/Helpers/GroupingHelper.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Xamarin.Helpers/ServiceResponse.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Xamarin.Helpers/HttpExtension.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <marker date="1534424463195" expanded="false" signature="6:160" ph="..." />
+            <marker date="1534424463195" expanded="true" signature="196:2582" ph="{...}" />
+            <marker date="1534424463195" expanded="true" signature="316:834" ph="{...}" />
+            <marker date="1534424463195" expanded="true" signature="334:663" ph="{...}" />
+            <marker date="1534424463195" expanded="true" signature="692:828" ph="{...}" />
+            <marker date="1534424463195" expanded="true" signature="940:1263" ph="{...}" />
+            <marker date="1534424463195" expanded="true" signature="958:1092" ph="{...}" />
+            <marker date="1534424463195" expanded="true" signature="1121:1257" ph="{...}" />
+            <marker date="1534424463195" expanded="true" signature="1412:1969" ph="{...}" />
+            <marker date="1534424463195" expanded="true" signature="1430:1798" ph="{...}" />
+            <marker date="1534424463195" expanded="true" signature="1569:1662" ph="{...}" />
+            <marker date="1534424463195" expanded="true" signature="1827:1963" ph="{...}" />
+            <marker date="1534424463195" expanded="true" signature="2065:2578" ph="{...}" />
+            <marker date="1534424463195" expanded="true" signature="2189:2244" ph="{...}" />
+            <marker date="1534424463195" expanded="true" signature="2257:2452" ph="{...}" />
+            <marker date="1534424463195" expanded="true" signature="2481:2540" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Xamarin.Helpers/ObjectExtensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <marker date="1534424463193" expanded="true" signature="51:416" ph="{...}" />
+            <marker date="1534424463193" expanded="true" signature="99:414" ph="{...}" />
+            <marker date="1534424463193" expanded="true" signature="222:387" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Xamarin.Helpers/TaskExtensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <marker date="1534424451267" expanded="false" signature="6:43" ph="..." />
+            <marker date="1534424451267" expanded="true" signature="80:512" ph="{...}" />
+            <marker date="1534424451267" expanded="true" signature="175:368" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Xamarin.Helpers/Helpers/ImageHelper.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+          <folding>
+            <marker date="1534421150344" expanded="false" signature="6:48" ph="..." />
+            <marker date="1534421150344" expanded="true" signature="75:1373" ph="{...}" />
+            <marker date="1534421150344" expanded="true" signature="106:1371" ph="{...}" />
+            <marker date="1534421150344" expanded="true" signature="175:543" ph="{...}" />
+            <marker date="1534421150344" expanded="true" signature="237:533" ph="{...}" />
+            <marker date="1534421150344" expanded="true" signature="605:932" ph="{...}" />
+            <marker date="1534421150344" expanded="true" signature="667:897" ph="{...}" />
+            <marker date="1534421150344" expanded="true" signature="808:883" ph="{...}" />
+            <marker date="1534421150344" expanded="true" signature="993:1175" ph="{...}" />
+            <marker date="1534421150344" expanded="true" signature="1239:1365" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

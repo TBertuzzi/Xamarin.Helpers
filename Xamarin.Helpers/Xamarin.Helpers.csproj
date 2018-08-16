@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="11.0.2" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="Class1.cs" />
+    <Compile Remove="Helpers\GroupingHelper.cs" />
+    <Compile Remove="Extensions\**" />
+    <Compile Remove="Models\**" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Remove="Extensions\**" />
+    <EmbeddedResource Remove="Models\**" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Extensions\**" />
+    <None Remove="Models\**" />
+  </ItemGroup>
+</Project>
