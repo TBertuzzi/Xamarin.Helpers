@@ -92,7 +92,6 @@ public static class HttpExtension
                 return returnResponse;
             }
 
-            //  returnResponse.Content = await response.Content.ReadAsStringAsync();
 
             returnResponse.Value = JsonConvert.DeserializeObject<T>(returnResponse.Content);
         }
