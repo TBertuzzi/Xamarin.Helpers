@@ -8,7 +8,7 @@ Extensions for HttpClient, Objects, Tasks and image manipulation.
 
 |Name|Info|
 | ------------------- | :------------------: |
-|Xamarin.Helpers|[![NuGet](https://img.shields.io/badge/nuget-1.0.0-blue.svg)](https://www.nuget.org/packages/Xamarin.Helpers/)|
+|Xamarin.Helpers|[![NuGet](https://img.shields.io/badge/nuget-1.0.1-blue.svg)](https://www.nuget.org/packages/Xamarin.Helpers/)|
 
  **Platform Support**
 
