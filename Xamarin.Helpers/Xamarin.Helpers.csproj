@@ -10,9 +10,9 @@
     <PackageProjectUrl>https://github.com/TBertuzzi/Xamarin.Helpers</PackageProjectUrl>
     <PackageIconUrl>https://github.com/TBertuzzi/Xamarin.Helpers/blob/master/Resources/icon.png?raw=true</PackageIconUrl>
     <RepositoryUrl>https://github.com/TBertuzzi/Xamarin.Helpers</RepositoryUrl>
-    <PackageReleaseNotes>Initial Version</PackageReleaseNotes>
+    <PackageReleaseNotes>Bug Fixes in HttpExtension</PackageReleaseNotes>
     <PackageTags>xamarin xamarin.forms xamarin forms helpers httpclient rest image cast</PackageTags>
-    <Version>1.0.2</Version>
+    <Version>1.0.3</Version>
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="Newtonsoft.Json" Version="11.0.2" />

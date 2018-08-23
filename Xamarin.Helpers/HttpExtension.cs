@@ -67,7 +67,7 @@ public static class HttpExtension
                 builder.Append($"&{pair.Key}={pair.Value}");
             }
 
-            var url = $"{address}?{builder.ToString().Substring(0)}";
+            var url = $"{address}?{builder.ToString().Substring(1)}";
             var response = await httpClient.GetAsync(url);
             return await GetResponse<T>(response);
         }
