@@ -12,7 +12,7 @@ Extensions for HttpClient, Objects, Tasks and image manipulation.
 
  **Platform Support**
 
-MultiSelectListView is a .NET Standard 2.0 library.Can be used with Xamarin and Xamarin.Forms.
+Xamarin.Helpers is a .NET Standard 2.0 library.Can be used with Xamarin and Xamarin.Forms.
 
 ## Setup / Usage
 
