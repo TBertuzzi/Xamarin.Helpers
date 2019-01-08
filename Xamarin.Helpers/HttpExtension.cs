@@ -30,7 +30,7 @@ public static class HttpExtension
                 address,
                 content);
 
-            return await GetResponse<T>(response);
+            return await GetResponse<T>(response).ConfigureAwait(false);
         }
         catch (Exception ex)
         {
@@ -45,7 +45,7 @@ public static class HttpExtension
         try
         {
             var response = await httpClient.GetAsync(address);
-            return await GetResponse<T>(response);
+            return await GetResponse<T>(response).ConfigureAwait(false); ;
         }
         catch (Exception ex)
         {
@@ -69,7 +69,7 @@ public static class HttpExtension
 
             var url = $"{address}?{builder.ToString().Substring(1)}";
             var response = await httpClient.GetAsync(url);
-            return await GetResponse<T>(response);
+            return await GetResponse<T>(response).ConfigureAwait(false); ;
         }
         catch (Exception ex)
         {
@@ -85,7 +85,7 @@ public static class HttpExtension
 
         try
         {
-            returnResponse.Content = await response.Content.ReadAsStringAsync();
+            returnResponse.Content = await response.Content.ReadAsStringAsync().ConfigureAwait(false); ;
 
             if (!response.IsSuccessStatusCode)
             {

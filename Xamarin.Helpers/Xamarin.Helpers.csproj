@@ -12,7 +12,7 @@
     <RepositoryUrl>https://github.com/TBertuzzi/Xamarin.Helpers</RepositoryUrl>
     <PackageReleaseNotes>Bug Fixes in HttpExtension</PackageReleaseNotes>
     <PackageTags>xamarin xamarin.forms xamarin forms helpers httpclient rest image cast</PackageTags>
-    <Version>1.0.3</Version>
+    <Version>1.0.4</Version>
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="Newtonsoft.Json" Version="11.0.2" />
