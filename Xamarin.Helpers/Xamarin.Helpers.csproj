@@ -10,13 +10,11 @@
     <PackageProjectUrl>https://github.com/TBertuzzi/Xamarin.Helpers</PackageProjectUrl>
     <PackageIconUrl>https://github.com/TBertuzzi/Xamarin.Helpers/blob/master/Resources/icon.png?raw=true</PackageIconUrl>
     <RepositoryUrl>https://github.com/TBertuzzi/Xamarin.Helpers</RepositoryUrl>
-    <PackageReleaseNotes>Bug Fixes in HttpExtension</PackageReleaseNotes>
+    <PackageReleaseNotes>Change HttpExtension for nuget package with mediatype</PackageReleaseNotes>
     <PackageTags>xamarin xamarin.forms xamarin forms helpers httpclient rest image cast</PackageTags>
-    <Version>1.0.4</Version>
+    <Version>1.1.0</Version>
+    <AssemblyVersion>1.1.0.0</AssemblyVersion>
   </PropertyGroup>
-  <ItemGroup>
-    <PackageReference Include="Newtonsoft.Json" Version="11.0.2" />
-  </ItemGroup>
   <ItemGroup>
     <Compile Remove="Class1.cs" />
     <Compile Remove="Helpers\GroupingHelper.cs" />
@@ -30,5 +28,8 @@
   <ItemGroup>
     <None Remove="Extensions\**" />
     <None Remove="Models\**" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="HttpExtension" Version="1.2.0" />
   </ItemGroup>
 </Project>
