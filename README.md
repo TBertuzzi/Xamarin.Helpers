@@ -22,6 +22,12 @@ There are no initial settings. Simply import the package into the shared project
 
 Extensions to make using HttpClient easy.
 
+To enable :
+
+```csharp
+using HttpExtension;
+```
+
 * GetAsync<T> : Gets the return of a Get Rest and converts to the object or collection of pre-defined objects.
 You can use only the path of the rest method, or pass a parameter dictionary. In case the url has parameters.
 
